@@ -1,0 +1,2 @@
+C:\Users\gabauman\documents\visual studio 2015\Projects\PrismSample\PrismSample\PrismSample.UWP\PrismSample.UWP.csproj;x86
+C:\Users\gabauman\documents\visual studio 2015\Projects\PrismSample\PrismSample\PrismSample\PrismSample.csproj;neutral
